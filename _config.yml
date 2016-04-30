@@ -1,5 +1,5 @@
-baseurl: "mbuda03.github.io" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "mbuda03.github.io" # the base hostname & protocol for your site.
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://www.mustafabuda.com" # the base hostname & protocol for your site.
 title: "Mustafa Buda"
 
 paginate: 10 #articles per page
