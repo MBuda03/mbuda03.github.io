@@ -1,48 +1,27 @@
 ---
 layout: page
-title: Tags
-permalink: /tags/
+permalink: "tags/index.html"
 ---
 
-<div class='list-group'>
-  {% assign tags_list = site.tags %}
+<ul class="tags">
+  <a class="text-muted">Tag cloud:</a>
+  {% for tag in site.tags %}
+  <a href="#{{ tag | first | slugize }}">
+      {{ tag | first }}
+  </a>
+  {% endfor %}
+</ul>
 
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %}
-      <a href="/tags#{{ tag }}-ref" class='list-group-item'>
-        {{ tag }} <span class='badge'>{{ site.tags[tag].size }}</span>
-      </a>
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %}
-      <a href="/tags#{{ tag[0] }}-ref" class='list-group-item'>
-        {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
-      </a>
-    {% endfor %}
-  {% endif %}
-
-  {% assign tags_list = nil %}
-</div>
-
-
+<div id="blog-archives">
 {% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
-  <ul>
-    {% assign pages_list = tag[1] %}
-
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if group == null or group == node.group %}
-          {% if page.url == node.url %}
-          <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-          {% else %}
-          <li><a href="{{node.url}}">{{node.title}}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
+  {% capture tag_name %}{{ tag | first }}{% endcapture %}
+  <h3 class="tag_name" id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
+  <a name="{{ tag_name | slugize }}"></a>
+    
+  {% for post in site.tags[tag_name] %}
+  <article>
+    <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a><small class="text-muted"> {{ post.date | date_to_string }}</small> 
+  </article>
+  {% endfor %}
 {% endfor %}
+</div>
