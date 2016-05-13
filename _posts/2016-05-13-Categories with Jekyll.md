@@ -30,6 +30,7 @@ title: Categories
 permalink: /categories/
 sitemap: false
 ---
+
 <div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
