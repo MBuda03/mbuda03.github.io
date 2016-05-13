@@ -24,6 +24,12 @@ Create a categories.md file to a suitable place with the following content. For 
 
 ```
 {% raw %}
+---
+layout: page
+title: Categories
+permalink: /categories/
+sitemap: false
+---
 <div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
