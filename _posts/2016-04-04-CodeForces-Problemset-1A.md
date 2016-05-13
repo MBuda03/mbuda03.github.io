@@ -2,6 +2,7 @@
 layout: post
 title: CodeForces Problemset 1A - Theatre Square 
 tags: [CodeForces, 1A, Theatre Square, Python]
+categories: ['CodeForces']
 ---
 
 ### Question
