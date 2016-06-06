@@ -5,6 +5,8 @@ title: "Mustafa Buda"
 paginate: 10 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
+parse_block_html: true
+
 #contacts
 git: "https://github.com/mbuda03"  #your github url here.
 stackoverflow: "" #Add your stackoverflow url here.
