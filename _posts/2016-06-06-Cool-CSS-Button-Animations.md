@@ -5,7 +5,7 @@ tags: [CSS, Button, Animation]
 categories: ['CSS Tricks']
 ---
 
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+{% include hover.css %}
 
 <h2>2D Transitions</h2>
 <a href="#" class="hvr-grow">Grow</a>
