@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Project Euler 1
-tags: [Project Euler, Scala]
-categories: ['Project Euler', 'Scala']
+tags: [Project Euler, GoLang]
+categories: ['Project Euler', 'GoLang']
 ---
 
 ### Question
 
-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
+If we list all the natural numbers below 10 that are multiples of 3 or 5, 
+we get 3, 5, 9. The sum of these multiples is 23. Find the sum of all the 
+multiples of 3 or 5 below 1000.
 
 Question can be found [here](https://projecteuler.net/problem=1)
 
