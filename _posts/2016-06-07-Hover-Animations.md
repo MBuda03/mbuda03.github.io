@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Button Animations
+title: Hover Animations
 tags: [CSS, Animation, Front-End]
 categories ['CSS', 'Animation']
 ---
