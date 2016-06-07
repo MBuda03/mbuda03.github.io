@@ -47,4 +47,7 @@ Speech bubble transition animations when hovered
 Icon transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/o78dgLnn/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
+## Curl Transitions
+Curl transition animations when hovered
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/035ojdfx/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
