@@ -35,7 +35,7 @@ Border Transition animations when hovered
 ## Shadow and Glow Transitions
 
 Shadow and glow transition animations when hovered
-<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/1885men6/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/1885men6/1/embedded/result,css,html/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 
 ## Speech Bubble Transitions
