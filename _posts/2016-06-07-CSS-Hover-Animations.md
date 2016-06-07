@@ -29,3 +29,15 @@ Background Transition animations when hovered
 
 Border Transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/q4sLor17/2/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
+
+## Shadow and Glow Transitions
+
+Shadow and glow transition animations when hovered
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/1885men6/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
+## Speech Bubble Transitions
+Speech bubble transition animations when hovered
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/o6vLqrw7/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
