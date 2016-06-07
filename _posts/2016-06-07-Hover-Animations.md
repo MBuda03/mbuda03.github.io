@@ -5,7 +5,6 @@ tags: [CSS, Animation, Front-End]
 categories ['CSS', 'Animation']
 ---
 
-
 # Hover Animations
 
 ### 2D Animations
