@@ -21,4 +21,11 @@ as well.
 ### Background Transitions
 
 Background Transition animations when hovered
-<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/wa3m11rt/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/wa3m11rt/4/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
+
+### Border Transitions
+
+Border Transition animations when hovered
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/q4sLor17/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
