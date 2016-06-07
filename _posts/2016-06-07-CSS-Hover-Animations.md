@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CSS Hover Animations
-tags: [Animation, Front End]
-categories ['Front End Development']
+tags: [Project Euler, GoLang]
+categories: ['Project Euler', 'GoLang'] 
 ---
 
 
