@@ -41,3 +41,10 @@ Shadow and glow transition animations when hovered
 ## Speech Bubble Transitions
 Speech bubble transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/o6vLqrw7/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
+### Icon Transitions
+Icon transition animations when hovered
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/o78dgLnn/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
