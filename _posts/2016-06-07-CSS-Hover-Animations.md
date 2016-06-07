@@ -10,7 +10,7 @@ Below are a collection of CSS Hover animations which I think it might be useful.
 and all respective authors are credited so make sure to have a visit to their other awesome projects
 as well.
 
-### 2D Animations
+## 2D Animations
 
 2D Transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/xeuuajzp/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
@@ -18,14 +18,14 @@ as well.
 
 
 
-### Background Transitions
+## Background Transitions
 
 Background Transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/wa3m11rt/4/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 
 
-### Border Transitions
+## Border Transitions
 
 Border Transition animations when hovered
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/q4sLor17/1/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
