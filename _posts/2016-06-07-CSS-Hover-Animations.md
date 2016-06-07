@@ -12,5 +12,4 @@ as well.
 
 ### 2D Animations
 
-
-<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/jmcto0x6/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/xeuuajzp/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
