@@ -5,7 +5,7 @@ tags: [CSS, Animation, Front-End]
 categories ['CSS', 'Animation']
 ---
 
-## 2D Animations
+### 2D Animations
 
 ### Hover Grow
 
