@@ -13,3 +13,7 @@ as well.
 ### 2D Animations
 
 <iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/xeuuajzp/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+### Background Transitions
+
+<iframe width="100%" height="300" src="//jsfiddle.net/mbuda03/7712Lzzx/embedded/result,css,html/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
