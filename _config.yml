@@ -27,6 +27,7 @@ gems:
 
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
