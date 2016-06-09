@@ -26,16 +26,16 @@ $vendor_data = get_term_meta( absint( vendor_id_no ), 'vendor_data', true );
 $vendor_term = get_term_by( 'id', $vendor_id, WC_PRODUCT_VENDORS_TAXONOMY );
 
 if ( $vendor_data && $vendor_term ) {
-				$vendor_data['term_id']          = $vendor_term->term_id;
-				$vendor_data['name']             = $vendor_term->name;
-				$vendor_data['slug']             = $vendor_term->slug;
-				$vendor_data['term_group']       = $vendor_term->term_group;
+				$vendor_data['term_id'] = $vendor_term->term_id;
+				$vendor_data['name'] = $vendor_term->name;
+				$vendor_data['slug'] = $vendor_term->slug;
+				$vendor_data['term_group'] = $vendor_term->term_group;
 				$vendor_data['term_taxonomy_id'] = $vendor_term->term_taxonomy_id;
-				$vendor_data['taxonomy']         = $vendor_term->taxonomy;
-				$vendor_data['description']      = $vendor_term->description;
-				$vendor_data['parent']           = $vendor_term->parent;
-				$vendor_data['count']            = $vendor_term->count;
-				$vendor_data['admins']           = $vendor_term->admins;
+				$vendor_data['taxonomy'] = $vendor_term->taxonomy;
+				$vendor_data['description'] = $vendor_term->description;
+				$vendor_data['parent'] = $vendor_term->parent;
+				$vendor_data['count'] = $vendor_term->count;
+				$vendor_data['admins'] = $vendor_term->admins;
 }
 
 $user = new WP_User( $vendor_data['admins'] );
