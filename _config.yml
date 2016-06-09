@@ -24,6 +24,10 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
+
+kramdown:
+  input: GFM
+
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
