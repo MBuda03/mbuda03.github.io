@@ -22,7 +22,7 @@ You can find the original question [here](http://codeforces.com/problemset/probl
 4
 
 ### Python Solution
-```C
+```Python
 from sys import stdin, stdout
 import math
 
