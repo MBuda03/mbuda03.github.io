@@ -8,10 +8,9 @@ categories: ['Operating Systems']
 Some things to do after installing Elementary OS
 
 ### Update
-```bash
     sudo apt-get update
     sudo apt-get upgrade
-```
+
 
 ### Spotify (Yes, I can't work without music.)
     sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D2C19886

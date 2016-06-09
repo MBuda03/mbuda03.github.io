@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CodeForces Problemset 1A - Theatre Square 
+title: CodeForces Problemset 1A - Theatre Square
 tags: [CodeForces, 1A, Theatre Square, Python]
 categories: ['CodeForces']
 ---
@@ -22,7 +22,7 @@ You can find the original question [here](http://codeforces.com/problemset/probl
 4
 
 ### Python Solution
-```
+```C
 from sys import stdin, stdout
 import math
 
