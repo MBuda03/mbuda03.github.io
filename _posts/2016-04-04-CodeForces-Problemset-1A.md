@@ -22,11 +22,11 @@ You can find the original question [here](http://codeforces.com/problemset/probl
 4
 
 ### Python Solution
-```Python
+{% highlight python %}
 from sys import stdin, stdout
 import math
 
 n, m, a = [int(x) for x in stdin.readline().rstrip().split()]
 
 stdout.write( str( math.ceil(n/a) * math.ceil(m/a) ) + "\n" )
-```
+{% endhighlight %}
