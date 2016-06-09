@@ -19,7 +19,7 @@ After assigning the capability to a user that is managing a specific vendor, we 
 check if that vendor is containing a user that is an approved vendor by using the
 code below
 
-```php
+```
 <?php
 $vendor_id_no = WC_Product_Vendors_Utils::get_vendor_id_from_product( $post->ID );
 $vendor_data = get_term_meta( absint( vendor_id_no ), 'vendor_data', true );
@@ -42,7 +42,7 @@ if ( $vendor_data && $vendor_term ) {
 $user = new WP_User( $vendor_data['admins'] );
 
 foreach ( $user->roles as $role ) {
-  if ( $role == 'lcl_apr_hst') {
+  if ( $role == 'ROLE_SLUG_HERE') {
 	echo '<img style="display:inline-block;" alt="Approved Vendor" title="Approved Vendor" src="IMAGE_LINK_HERE" width="20" height="20">';
 	}
 };
