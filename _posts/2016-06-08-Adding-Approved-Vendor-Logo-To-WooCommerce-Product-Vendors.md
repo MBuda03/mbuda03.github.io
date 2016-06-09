@@ -19,7 +19,7 @@ After assigning the capability to a user that is managing a specific vendor, we 
 check if that vendor is containing a user that is an approved vendor by using the
 code below
 
-```php
+```
 $vendor_id_no = WC_Product_Vendors_Utils::get_vendor_id_from_product( $post->ID );
 $vendor_data = get_term_meta( absint( vendor_id_no ), 'vendor_data', true );
 
