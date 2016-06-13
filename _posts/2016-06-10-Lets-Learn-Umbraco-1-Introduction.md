@@ -32,6 +32,15 @@ Umbraco admin panel consists of 3 different sections:
 - Content
     - Changes based on the sidebar / menu selection.
 
+### Property Editor and Data Types
+- Property
+    - Characteristic of something or a short description (e.g. Page Title)
+- Data Type
+    - Information allowed into that property (e.g. Text Field, Text Box)
+- Property Editor
+    - The code that data types are created from
+
+
 ## Installation
 
 Text to come later...
