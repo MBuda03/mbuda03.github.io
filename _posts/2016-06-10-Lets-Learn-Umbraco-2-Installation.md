@@ -5,8 +5,6 @@ tags: [Umbraco]
 categories: ['Umbraco', 'LetsLearnSeries']
 ---
 
-
-
 ## Installation
 There exist several ways of installing Umbraco such as installing and
 configuring a webserver(e.g. IIS) and a database (e.g. SQL). In my opinion,
