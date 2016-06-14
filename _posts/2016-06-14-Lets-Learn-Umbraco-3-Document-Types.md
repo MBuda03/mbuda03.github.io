@@ -8,7 +8,6 @@ categories: ['Umbraco', 'LetsLearnSeries']
 Unlike other Content Management Systems, the way Umbraco works is, you don't
 create a page and you are done. You need to create a Document Type.
 
-
 ## Document Types
 
 We can think Document Types as a data container in Umbraco in which we can add
