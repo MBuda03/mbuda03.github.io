@@ -73,3 +73,17 @@ At the same sidebar which we entered the tabs name, click on "Add Editor" and fi
 
 Now, check the Welcome content we created in the content section, you will see
 a new section appearing.
+
+### Datatypes
+
+When we are adding a property to a document type, we need to define a Datatype
+for each of the property we are adding. A datatype determines the type of control
+displayed to our content editor. Therefore it is very important to choose the
+proper datatype.
+
+Most common default datatypes:
+- Checkbox list
+- Date Picker
+- Dropdown
+- Label
+- etc...
