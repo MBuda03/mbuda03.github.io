@@ -87,3 +87,9 @@ Most common default datatypes:
 - Dropdown
 - Label
 - etc...
+
+### Master Document Type
+
+It allows to use inheritance between document types. By using Master Document Types
+to inherit the properties of another Document Type rather than recreating the properties
+every time.
