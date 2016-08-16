@@ -26,7 +26,7 @@ navigation:
 
 # Author information - author info at the bottom of the post
 author_name: "Mustafa Buda"
-author_bio: "I am a full stack developer, photographer, Co-founder and CEO of Bdx Tech and the co-founder / developer of Loacal."
+author_bio: "I am a Full-Stack Developer, Security Analyst, Photographer and a Cyclist"
 author_url:  "http://www.mustafabuda.com"
 author_location: "Nicosia, Cyprus"
 author_image: /images/authorimage.png
@@ -38,19 +38,19 @@ banner_image: images/banner.jpg
 
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+mailchimp_url: "//mustafabuda.us14.list-manage.com/subscribe/post?u=8c143194c2a2a5c205d7587d6&amp;id=1abecbf73d"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
-googleplus_username: "+username"
-github_username: "username"
-codepen_username: "username"
-dribbble_uername: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+twitter_username: "mbuda03"
+facebook_username: "mustafa.buda"
+googleplus_username: "+MustafaBuda"
+github_username: "MBuda03"
+#codepen_username: "username"
+#dribbble_uername: "username"
+#medium_username: "@username"
+instagram_username: "musdyy"
+#pinterest_username: "username"
+#linkedin_username: "username"
 
 
 paginate: 5 #articles per page
