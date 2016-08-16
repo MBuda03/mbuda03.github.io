@@ -3,6 +3,7 @@ layout: post
 title: Design and UX Trends For 2016
 tags: [FrontEnd Development]
 categories: ['FrontEnd Development']
+banner_image: Desk.jpg
 ---
 
 Design and UX Trends to Boost Conversions (Infographic)
