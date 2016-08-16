@@ -2,19 +2,65 @@ baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the r
 url: "http://www.mustafabuda.com" # the base hostname & protocol for your site.
 title: "Mustafa Buda"
 
-paginate: 10 #articles per page
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Sometimes I write code"
+
+# Tagline near the site title
+tagline: "Sometimes I write code"
+
+
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Style Guides
+  url: /style-guide/
+- text: Archives
+  url: /tags/
+
+
+
+# Author information - author info at the bottom of the post
+author_name: "Mustafa Buda"
+author_bio: "I am a full stack developer, photographer, Co-founder and CEO of Bdx Tech and the co-founder / developer of Loacal."
+author_url:  "http://www.mustafabuda.com"
+author_location: "Nicosia, Cyprus"
+author_image: /images/authorimage.png
+
+
+# Sidebar Add banner
+banner_url: "http://justgoodthemes.com"
+banner_image: images/banner.jpg
+
+
+# Sidebar newsletter widget - add your form action url for MailChimp signup form here
+mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+
+# Social links in the site footer
+twitter_username: "username"
+facebook_username: "username"
+googleplus_username: "+username"
+github_username: "username"
+codepen_username: "username"
+dribbble_uername: "username"
+medium_username: "@username"
+instagram_username: "username"
+pinterest_username: "username"
+linkedin_username: "username"
+
+
+paginate: 5 #articles per page
 paginate_path: /blog/page:num #makes pagination working
+gems: [jekyll-paginate]
 
 parse_block_html: true
 
-#contacts
-git: "https://github.com/mbuda03"  #your github url here.
-stackoverflow: "" #Add your stackoverflow url here.
-twitter: "https://twitter.com/mbuda03"  #Add your twitter url here.
-
-#disqus comment
-disqus:
-    shortname: "" #your disqus comment short name
+sass:
+  sass_dir: _sass
 
 #google analytics
 google:
@@ -28,29 +74,3 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-
-  
-# This is used by feed.xml. Uncomment if you want to use it.
-# description: "..."
-
-exclude:
-  - "README.md"
-  - "CHANGELOG.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-
-permalink: /posts/:title
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
