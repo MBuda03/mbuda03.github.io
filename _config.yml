@@ -16,9 +16,9 @@ navigation:
 - text: Home
   url: /
 - text: About
-  url: /about/
-- text: Style Guides
-  url: /style-guide/
+  url: /about.html/
+#- text: Style Guides
+#  url: /style-guide/
 - text: Archives
   url: /tags/
 
