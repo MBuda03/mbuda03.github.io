@@ -16,11 +16,11 @@ navigation:
 - text: Home
   url: /
 - text: About
-  url: /about.html/
+  url: /about
 #- text: Style Guides
 #  url: /style-guide/
 - text: Archives
-  url: /tags/
+  url: /tags
 
 
 
