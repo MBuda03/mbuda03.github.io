@@ -3,7 +3,7 @@ layout: post
 title: Choosing the best color palette
 tags: [FrontEnd Development]
 categories: ['FrontEnd Development']
-banner_image: colorPalette.jpg
+image: colorPalette.jpg
 ---
 
 Choosing the best color palette can sometimes be tricky. Here is a great Infographic (by Designmodo) to help you understand more about the compliance of colors.
