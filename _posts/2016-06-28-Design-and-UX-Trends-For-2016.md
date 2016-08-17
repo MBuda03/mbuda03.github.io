@@ -7,4 +7,7 @@ categories: ['FrontEnd Development']
 
 Design and UX Trends to Boost Conversions (Infographic)
 
+
+<!--more-->
+
 [<img src="http://unbounce.wpengine.netdna-cdn.com/photos/web-design-and-ux-trends-infographic.jpg">](http://unbounce.com/a-b-testing/design-ux-trends-to-boost-conversions-infographic/?utm_medium=referral&utm_source=embed&utm_campaign=meta-infographic-infographic&utm_content=infographic)

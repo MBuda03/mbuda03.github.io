@@ -10,6 +10,9 @@ There exist several ways of installing Umbraco such as installing and
 configuring a webserver(e.g. IIS) and a database (e.g. SQL). In my opinion,
 the easiest way to install Umbraco is to use [Webmatrix](http://www.microsoft.com/web/webmatrix/)
 
+
+<!--more-->
+
 If you want to go with the Webmatrix method, just follow the installation
 process, then, use the Webmatrix's app gallery which consists of several
 open source projects such as Umbraco. Follow through the Webmatrix's installation

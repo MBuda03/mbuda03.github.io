@@ -13,6 +13,8 @@ Umbraco provides two different rendering engines
 I am going with MVC, if you want to know the difference between these two, you
 can easily find information through google.
 
+<!--more-->
+
 Templates are in the settings section of the umbraco back office and they contain
 the html markup for the page.
 

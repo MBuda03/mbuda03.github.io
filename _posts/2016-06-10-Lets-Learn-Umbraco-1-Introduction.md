@@ -10,6 +10,7 @@ categories: ['Umbraco', 'LetsLearnSeries']
 Remember! For this series, I am using Umbraco 7.4 which has significant changes
 compared to previous versions of Umbraco.
 
+<!--more-->
 ### Content Management Systems
 A CMS is a system or program allows you to edit content without writing code.
 
