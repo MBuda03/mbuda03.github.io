@@ -19,7 +19,8 @@ layout: default
                 </header><!-- .entry-header -->
                 <div class="entry-content">
                     {% if post.content contains '<!--more-->' %}
-                        {{ post.content | split:'<!--more-->' | first }}
+                        <!--{{ post.content | split:'--><!--more--><!--' | first }}-->
+                        {{ post.excerpt }}
                     {% else %}
                         <!-- {{ post.content }} -->
                         {{ post.excerpt }}
