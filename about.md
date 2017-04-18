@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Mustafa Buda
 description: An about page about the author
 banner_image: aboutPage.jpg
