@@ -26,7 +26,7 @@ sitemap: false
         {% for post in sorted_posts %} 
             {%if post.categories contains category[0]%} 
                 <ul> 
-                <h4><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a></h4> 
+                <h4><a href="{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a></h4> 
                 </ul> 
             {%endif%} 
         {% endfor %} 
