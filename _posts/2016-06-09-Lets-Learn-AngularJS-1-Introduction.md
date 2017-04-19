@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets Learn AngularJS 1 - Introduction
-tags: [AngularJS]
-categories: ['AngularJS', 'LetsLearnSeries']
+tags: [AngularJS, LetsLearnSeries]
+categories: ['AngularJS']
 ---
 
 In this series we will start on learning AngularJS mainly to be used in the

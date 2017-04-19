@@ -2,7 +2,7 @@
 layout: post
 title: Installing OpenAlpr on MacOSX
 tags: [OpenAlpr, MacOSx]
-categories: ['Computer Vision', 'OpenALPR']
+categories: ['Computer-Vision']
 ---
 
 [OpenAlpr](https://github.com/openalpr/openalpr) is a great open source Automatic Licence Plate Recognition Library. However I had few struggles in the installation on MacOSX and used Ubuntu on VM instead. The main problem was with the update on the Tesseract from 3.03 to 3.04. Few days ago, the developers trained the data set again for the updated Tesseract and I decided to have a go at the installation again. Here are my steps.

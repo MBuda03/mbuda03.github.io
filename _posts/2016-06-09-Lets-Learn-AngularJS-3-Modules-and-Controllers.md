@@ -2,7 +2,7 @@
 layout: post
 title: Lets Learn AngularJS 3 - Modules and Controllers
 tags: [AngularJS]
-categories: ['AngularJS', 'LetsLearnSeries']
+categories: ['AngularJS']
 ---
 
 ## Modules

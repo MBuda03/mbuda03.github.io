@@ -2,7 +2,7 @@
 layout: post
 title: Adding Approved Vendor Logo to WooCommerce Product Vendors
 tags: [Woocommerce, Product Vendors]
-categories: ['Woocommerce', 'Product Vendors', 'PHP']
+categories: ['Woocommerce']
 ---
 
 

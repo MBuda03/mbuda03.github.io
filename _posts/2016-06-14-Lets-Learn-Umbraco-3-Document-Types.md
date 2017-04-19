@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets Learn Umbraco 3 - Document Types
-tags: [Umbraco]
-categories: ['Umbraco', 'LetsLearnSeries']
+tags: [Umbraco, LetsLearnSeries]
+categories: ['Umbraco']
 ---
 
 Unlike other Content Management Systems, the way Umbraco works is, you don't

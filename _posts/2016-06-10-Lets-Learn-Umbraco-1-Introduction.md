@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets Learn Umbraco 1 - Introduction
-tags: [Umbraco]
-categories: ['Umbraco', 'LetsLearnSeries']
+tags: [Umbraco, LetsLearnSeries]
+categories: ['Umbraco']
 ---
 
 ## Introduction

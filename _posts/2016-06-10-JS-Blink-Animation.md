@@ -1,8 +1,8 @@
 ---
 layout: post
 title: JS Blink Animation
-tags: [FrontEnd Development, JS]
-categories: ['FrontEnd Development', 'JS']
+tags: [FrontEnd-Development, JS]
+categories: ['FrontEnd-Development']
 ---
 
 Today, I've needed to create a text that was blinking to update our users

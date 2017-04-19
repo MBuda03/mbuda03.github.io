@@ -2,7 +2,7 @@
 layout: post
 title: Lets Learn AngularJS 2 - Expressions
 tags: [AngularJS]
-categories: ['AngularJS', 'LetsLearnSeries']
+categories: ['AngularJS']
 ---
 
 Here are some of the valid expressions in the AngularJS. More of them can be

@@ -2,7 +2,7 @@
 layout: post
 title: CSS Hover Animations
 tags: [FrontEnd Development, CSS]
-categories: ['FrontEnd Development', 'CSS']
+categories: ['FrontEnd-Development']
 ---
 
 

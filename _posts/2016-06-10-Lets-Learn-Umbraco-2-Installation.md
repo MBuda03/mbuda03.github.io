@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets Learn Umbraco 2 - Installation
-tags: [Umbraco]
-categories: ['Umbraco', 'LetsLearnSeries']
+tags: [Umbraco, LetsLearnSeries]
+categories: ['Umbraco']
 ---
 
 ## Installation

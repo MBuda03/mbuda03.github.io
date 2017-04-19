@@ -2,7 +2,7 @@
 layout: post
 title: Project Euler 1
 tags: [Project Euler, GoLang]
-categories: ['Project Euler', 'GoLang']
+categories: ['Project-Euler']
 ---
 
 ### Question

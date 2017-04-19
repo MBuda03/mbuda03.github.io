@@ -10,6 +10,9 @@ description: "Sometimes I write code"
 tagline: "Sometimes I write code"
 
 
+# Permalink
+permalink: /:categories/:title.html
+
 
 # Site navigation - each item must have a title and a url.
 navigation:

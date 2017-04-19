@@ -2,7 +2,7 @@
 layout: post
 title: Elementary Os Post Install
 tags: [Elementary Os]
-categories: ['Operating Systems']
+categories: ['Operating-Systems']
 ---
 
 Some things to do after installing Elementary OS

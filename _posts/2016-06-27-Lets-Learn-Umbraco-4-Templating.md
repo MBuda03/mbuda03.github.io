@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lets Learn Umbraco 4 - Templating
-tags: [Umbraco]
-categories: ['Umbraco', 'LetsLearnSeries']
+tags: [Umbraco, LetsLearnSeries]
+categories: ['Umbraco']
 ---
 
 Umbraco provides two different rendering engines
