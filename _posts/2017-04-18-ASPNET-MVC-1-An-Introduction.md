@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ASP.NET Core MVC &#35;1 - An Introduction
+title: ASP.NET MVC &#35;1 - An Introduction
 tags: [.NET]
-categories: ['ASP.NET-CORE-MVC']
+categories: ['ASP.NET-MVC']
 ---
 
 In these series, I will explore how MVC works, How ASP.NET Core works, compare it to ASP.NET then will deep into more detailed topics related to ASP.NET 5.
