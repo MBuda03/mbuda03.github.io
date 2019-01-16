@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CSS Hover Animations
+description: CSS Hover Animations Cheat Sheet.
 tags: [FrontEnd Development, CSS]
 categories: ['FrontEnd-Development']
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding Approved Vendor Logo to WooCommerce Product Vendors
+description: Woocommerce and Product Vendors are a great way to build a marketplace on top of WordPress, however, I think it is missing the ability to display an approved vendor logo next to the vendors that are selling product which are approved.
 tags: [Woocommerce, Product Vendors]
 categories: ['Woocommerce']
 ---

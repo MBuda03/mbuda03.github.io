@@ -1,17 +1,13 @@
 ---
 layout: default
-title: About Mustafa Buda
+title: About Me
 description: An about page about the author
 banner_image: aboutPage.jpg
 ---
 
-**Mustafa Buda** is a Computer Science graduate from [Nicosia](https://en.wikipedia.org/wiki/Nicosia), Cyprus. After graduating from The Electronics and Computer Science, University of Southampton with a degree in Computer Science, he worked on several small sized projects as a developer.
+Hello! I am a Computer Science graduate from Cyprus. After graduating from The Electronics and Computer Science, University of Southampton with a degree in Computer Science, I've worked on several small sized projects as a developer. Nowadays, I am working on a company as a Developer mostly focusing on the Front End and I am also responsible with the releases, the team is producing.
 
-Currently, he is the Lead Developer of the Activity Marketplace known as [Loacal](http://www.loacal.com), Developer at the Package Holiday company known as [Cyprus Paradise](http://www.cyprusparadise.com) and CEO, Co-Founder of the Bdx Technologies.
-
->I can and I will. Watch Me.<cite>  Anon</cite>
-
-Below, you can find more about Mustafa Buda.
+Below, you can find more about me.
 
 #### Work
 - **Cyprus Paradise**
@@ -20,7 +16,7 @@ Below, you can find more about Mustafa Buda.
 
 - **Loacal**
     - Lead Developer
-    - *February 2016 - Present*
+    - *February 2016 - Feb 2018
 
 - **Bdx Technologies**
     - CEO, Co-Founder
@@ -40,7 +36,7 @@ Below, you can find more about Mustafa Buda.
     - *October 2015 - January 2016*
 
 - **University of Southampton**
-    - MEng Computer Science with Mobile and Secure Systems
+    - Bsc Computer Science with Mobile and Secure Systems
     - *September 2010 - June 2015*
 
 #### Projects

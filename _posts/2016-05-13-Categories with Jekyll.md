@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Categories with Jekyll
+description: How to create categories with Jekyll. 
 tags: [Jekyll, Categories]
 categories: ['Jekyll']
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Project Euler 2
+description: Solution to the Problem Set 2 of the Project Euler.
 tags: [Project Euler, GoLang]
 categories: ['Project-Euler']
 ---

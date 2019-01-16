@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JS Blink Animation
+description: JS Blink Animation Cheat Sheet
 tags: [FrontEnd-Development, JS]
 categories: ['FrontEnd-Development']
 ---

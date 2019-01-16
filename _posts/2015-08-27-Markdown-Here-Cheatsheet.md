@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown Here 
+description: Cheat Sheet for Markdown, written by Adam.
 tags: [Markdown]
 categories: ['Jekyll']
 ---

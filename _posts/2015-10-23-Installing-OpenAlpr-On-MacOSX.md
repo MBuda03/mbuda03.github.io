@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installing OpenAlpr on MacOSX
+description: OpenALPR is a great open source Automatic Licence Plate Recognition Library. However I had few struggles in the installation on MacOSX and used Ubuntu on VM instead.
 tags: [OpenAlpr, MacOSx]
 categories: ['Computer-Vision']
 ---

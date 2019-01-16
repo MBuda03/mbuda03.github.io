@@ -1,6 +1,7 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://mbuda03.github.io" # the base hostname & protocol for your site.
-title: "Mustafa Buda"
+title: "Exabit"
+description: "Exabit is my personal blog acting like a notepad where I wrote stuff that I think I might need it later. Feel free to explore."
 
 
 # A description of your site for social meta tag, search engines, and feed.xml
@@ -28,10 +29,10 @@ navigation:
 
 
 # Author information - author info at the bottom of the post
-author_name: "Mustafa Buda"
+author_name: "Exabit"
 author_bio: "I am a Full-Stack Developer, Security Analyst, Photographer and a Cyclist"
-author_url:  "http://www.mustafabuda.com"
-author_location: "Nicosia, Cyprus"
+author_url:  "http://www.exabit.me"
+author_location: "Cyprus"
 author_image: /images/authorimage.png
 
 

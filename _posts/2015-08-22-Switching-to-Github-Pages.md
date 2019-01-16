@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Switching to Github Pages
+description: My decision on switching from Digital Ocean to Github Pages for Hosting
 tags: [Jekyll, Github]
 categories: ['Jekyll']
 ---

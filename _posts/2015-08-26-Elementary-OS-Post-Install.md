@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elementary Os Post Install
+description: How to Install Elementary OS and first things to install right after
 tags: [Elementary Os]
 categories: ['Operating-Systems']
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CodeForces Problemset 1A - Theatre Square
+description: Solution for the CodeForces 1A Problem Set. 
 tags: [CodeForces, 1A, Theatre Square, Python]
 categories: ['CodeForces']
 ---
